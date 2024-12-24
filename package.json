@@ -28,5 +28,5 @@
         "exec": "node ./src/server/api.js"
     },
     "repository": "ericstephenszpaper/zpaper-sprkz",
-    "scripts": {}
+    "scripts": {} 
 }
